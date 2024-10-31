@@ -167,20 +167,21 @@ void loop() {
 
 ### Minha avaliação em relação ao meu colega
 
-#### Avaliador: David Deodato | ### Avaliado: Ryan Gartlan
+#### Avaliador: David Deodato | Avaliado: Ryan Gartlan
+
 
 |Critério|	Contempla (Pontos)|	Contempla Parcialmente (Pontos)	|Não Contempla (Pontos)	|Observações do Avaliador|
 |-|-|-|-|-|
 |Montagem física com cores corretas, boa disposição dos fios e uso adequado de resistores	| 3	| 0 |0 |fez a montagem correta, nas cores corretas e boa disposição dos fios, deixando claro quais são quais |	
 |Temporização adequada conforme tempos medidos com auxílio de algum instrumento externo	| 3	|0	|0 | usou o miles para medir o tempo |	
 |Código implementa corretamente as fases do semáforo e estrutura do código (variáveis representativas e comentários) | 3| 0 |	0 | fez a sequência correta |	
-|Ir além: Implementou um componente de extra, fez com millis() ao invés do delay() e/ou usou ponteiros no código |	1 | 0  |	0 | usou millis e usou buzzer |	
-| | | | |*Pontuação Total = 10* |
+|Ir além: Implementou um componente de extra, fez com millis() ao invés do delay() e/ou usou ponteiros no código |	0 | 0  |	0 | não foi além |	
+| | | | |Pontuação Total = 9 |
 
 
 ### Minha avaliação em relação ao meu colega 2
 
-#### Avaliador: David Deodato | ### Avaliado: Daniel Dias
+#### Avaliador: David Deodato | Avaliado: Daniel Dias
 
 |Critério|	Contempla (Pontos)|	Contempla Parcialmente (Pontos)	|Não Contempla (Pontos)	|Observações do Avaliador|
 |-|-|-|-|-|
