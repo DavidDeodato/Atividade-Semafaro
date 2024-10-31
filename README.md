@@ -138,13 +138,12 @@ void loop() {
 ### Avaliação do meu colega em relação à mim
 
 
-
-#### Avaliador: Ryan Gartlan
+#### Avaliador: Ryan Gartlan | Avaliado: David Deodato
 
 |Critério|	Contempla (Pontos)|	Contempla Parcialmente (Pontos)	|Não Contempla (Pontos)	|Observações do Avaliador|
 |-|-|-|-|-|
 |Montagem física com cores corretas, boa disposição dos fios e uso adequado de resistores	| 3	| 0 |0 |fez a montagem correta, nas cores corretas e boa disposição dos fios |	
-|Temporização adequada conforme tempos medidos com auxílio de algum instrumento externo	| 3	|0	|0 | usou o miles para medir o tempo, fazendo um temporizador |	
+|Temporização adequada conforme tempos medidos com auxílio de algum instrumento externo	| 3	|0	|0 | usou o milis para medir o tempo, fazendo um temporizador |	
 |Código implementa corretamente as fases do semáforo e estrutura do código (variáveis representativas e comentários) | 3| 0 |	0 | fez a sequência correta e ainda validou com o professor |	
 |Ir além: Implementou um componente de extra, fez com millis() ao invés do delay() e/ou usou ponteiros no código | 1 | 0  | 0 | usou millis e usou buser |	
 | | | | |*Pontuação Total = 10* |
@@ -153,28 +152,40 @@ void loop() {
 
 ### Avaliação do meu outro colega em relação à mim
 
-#### Avaliador: daniel dias
+#### Avaliador: Daniel Dias | Avaliado: David Deodato
 
 
-|Critério|	Contempla (Pontos)|	Contempla Parcialmente (Pontos)	|Não Contempla (Pontos)	|Observações do Avaliador|
+|Critério|  Contempla (Pontos)| Contempla Parcialmente (Pontos) |Não Contempla (Pontos) |Observações do Avaliador|
 |-|-|-|-|-|
-|Montagem física com cores corretas, boa disposição dos fios e uso adequado de resistores	| 3	| 0 |0 |fez a montagem correta, nas cores corretas e boa disposição dos fios |	
-|Temporização adequada conforme tempos medidos com auxílio de algum instrumento externo	| 3	|0	|0 | usou o miles para medir o tempo, fazendo um temporizador |	
-|Código implementa corretamente as fases do semáforo e estrutura do código (variáveis representativas e comentários) | 3| 0 |	0 | fez a sequência correta e ainda validou com o professor |	
-|Ir além: Implementou um componente de extra, fez com millis() ao invés do delay() e/ou usou ponteiros no código | 1 | 0  | 0 | usou millis e usou buser |	
-| | | | |*Pontuação Total = 10* |
-
+|Montagem física com cores corretas, boa disposição dos fios e uso adequado de resistores   | 3 | - |- | Montou corretamente os resistores e fez uso das cores corretamente (usou jumpers brancos por conta de não possuir jumpers vermelhor para representar corretamente, mas justificou que o professor indicou ) |
+|Temporização adequada conforme tempos medidos com auxílio de algum instrumento externo | 3 | - | - | Fiz uso de um cronômetro para marcar o tempo e verificar se o tempo está condizente com a proposta da ponderada |
+|Código implementa corretamente as fases do semáforo e estrutura do código (variáveis representativas e comentários) |3|    - | - |Sim, notei a presença de muitos comentários por todo o código, bem explicativos |
+|Ir além: Implementou um componente de extra, fez com millis() ao invés do delay() e/ou usou ponteiros no código | 1 | - | - |Usou millis() no código e adicionou um buzzer
+| | | | |Pontuação Total: 10|
 
 
 
 ### Minha avaliação em relação ao meu colega
 
-#### Avaliador: David Deodato
+#### Avaliador: David Deodato | ### Avaliado: Ryan Gartlan
 
 |Critério|	Contempla (Pontos)|	Contempla Parcialmente (Pontos)	|Não Contempla (Pontos)	|Observações do Avaliador|
 |-|-|-|-|-|
 |Montagem física com cores corretas, boa disposição dos fios e uso adequado de resistores	| 3	| 0 |0 |fez a montagem correta, nas cores corretas e boa disposição dos fios, deixando claro quais são quais |	
 |Temporização adequada conforme tempos medidos com auxílio de algum instrumento externo	| 3	|0	|0 | usou o miles para medir o tempo |	
 |Código implementa corretamente as fases do semáforo e estrutura do código (variáveis representativas e comentários) | 3| 0 |	0 | fez a sequência correta |	
-|Ir além: Implementou um componente de extra, fez com millis() ao invés do delay() e/ou usou ponteiros no código |	1 | 0  |	0 | usou millis e usou buser |	
+|Ir além: Implementou um componente de extra, fez com millis() ao invés do delay() e/ou usou ponteiros no código |	1 | 0  |	0 | usou millis e usou buzzer |	
+| | | | |*Pontuação Total = 10* |
+
+
+### Minha avaliação em relação ao meu colega 2
+
+#### Avaliador: David Deodato | ### Avaliado: Daniel Dias
+
+|Critério|	Contempla (Pontos)|	Contempla Parcialmente (Pontos)	|Não Contempla (Pontos)	|Observações do Avaliador|
+|-|-|-|-|-|
+|Montagem física com cores corretas, boa disposição dos fios e uso adequado de resistores	| 3	| 0 |0 |fez a montagem correta, nas cores corretas e boa disposição dos fios |	
+|Temporização adequada conforme tempos medidos com auxílio de algum instrumento externo	| 3	|0	|0 | usou o milis para medir o tempo, fazendo um temporizador |	
+|Código implementa corretamente as fases do semáforo e estrutura do código (variáveis representativas e comentários) | 3| 0 |	0 | fez a sequência correta e ainda validou com o professor |	
+|Ir além: Implementou um componente de extra, fez com millis() ao invés do delay() e/ou usou ponteiros no código | 1 | 0  | 0 | usou millis e usou buzzer |	
 | | | | |*Pontuação Total = 10* |
